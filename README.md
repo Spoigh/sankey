@@ -24,12 +24,15 @@ This project visualizes income and expenses as a **Sankey diagram** using **Pyth
 2. **Install dependencies using Poetry**
 
     If you don’t have Poetry installed, you can install it by following Poetry's installation guide.
+
     ```bash
     poetry install
     ```
 
 ## Configuration
+
     The project uses a YAML configuration file (config.yaml) to specify income, expenses, and currency. Here’s an example config.yaml file format:
+
     ```yaml
     currency: "CZE"  # Specify the currency symbol or code here
 
@@ -46,6 +49,7 @@ This project visualizes income and expenses as a **Sankey diagram** using **Pyth
     ```
 
 ## Usage
+
     ```bash
     poetry run sankey
     ```
