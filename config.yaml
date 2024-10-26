@@ -1,0 +1,12 @@
+currency: "CZE"
+
+income:
+  Salary: 45000
+
+expenses:
+  Rent: 10000
+  Restaurants & Pubs: 2500
+  Groceries: 3000
+  Clothes Avg: 1000
+  Utilities: 400
+  Investments: 1000
