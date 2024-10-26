@@ -1,5 +1,7 @@
 # Income and Expense Sankey Diagram
 
+![Example Sankey Diagram](sankey.png)
+
 This project visualizes income and expenses as a **Sankey diagram** using **Python** and **Plotly**. It takes a configurable YAML file as input, allowing you to specify income sources, expenses, and the currency used. The diagram displays the flow of funds from income sources to expenses, with any remaining cash displayed as "Leftover."
 
 ## Features
