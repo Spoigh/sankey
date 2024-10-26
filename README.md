@@ -31,7 +31,7 @@ This project visualizes income and expenses as a **Sankey diagram** using **Pyth
 
 ## Configuration
 
-    The project uses a YAML configuration file (config.yaml) to specify income, expenses, and currency. Here’s an example config.yaml file format:
+    The project uses a YAML configuration file (config.yaml) to specify income, expenses, and currency. Here’s an example config.yaml file format
 
     ```yaml
     currency: "CZE"  # Specify the currency symbol or code here
@@ -49,6 +49,8 @@ This project visualizes income and expenses as a **Sankey diagram** using **Pyth
     ```
 
 ## Usage
+
+    How to run the script
 
     ```bash
     poetry run sankey
